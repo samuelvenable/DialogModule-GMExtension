@@ -1,0 +1,1 @@
+# DialogModule GameMaker Extension
