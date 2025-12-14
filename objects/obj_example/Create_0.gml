@@ -1,6 +1,3 @@
-// set the owner window for the dialogs (required).
-widget_set_owner(string(int64(window_handle())));
-
 // set an icon for the dialogs from a *.png file.
 widget_set_icon(working_directory + "icon.png");
 
