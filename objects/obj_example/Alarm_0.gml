@@ -1,6 +1,5 @@
 /* variant argument types are not supported. use 
-string or real where specified in the docs. docs
-can be read at http://dialogmodule.weebly.com */
+string or real where specified in the readme. */
 
 if (dlg == 0) {
   widget_set_caption("DialogModule");
@@ -86,5 +85,6 @@ if (dlg == 19) {
 if (dlg == 20) {
   game_end();
 }
+
 
 dlg++;
