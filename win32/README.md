@@ -77,4 +77,3 @@
 # Color Picker Dialog (Extended)
 ![19.png](19.png)
 `real get_color_ext(real defcol,string title)` Displays a modal color selection dialog. When the "OK" button is clicked, the color that is selected is returned, and if "Cancel" is clicked, the value -1 is returned. Use the first argument to specify the default color to be selected when the dialog first opens. Use the second argument to change the caption.
-
