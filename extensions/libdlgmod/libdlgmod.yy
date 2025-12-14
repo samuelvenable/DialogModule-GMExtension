@@ -274,7 +274,6 @@
         {"name":"widget_set_button_name","path":"extensions/libdlgmod/libdlgmod.yy",},
       ],"origname":"extensions\\DialogModule.dll","ProxyFiles":[
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libdlgmod.dylib","TargetMask":1,},
-        {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libdlgmod_arm.so","TargetMask":7,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libdlgmod_arm64.so","TargetMask":7,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libdlgmod.so","TargetMask":7,},
       ],"uncompress":false,"usesRunnerInterface":false,},
@@ -328,4 +327,5 @@
   "tvosProps": false,
   "tvosSystemFrameworkEntries": [],
   "tvosThirdPartyFrameworkEntries": [],
+
 }
