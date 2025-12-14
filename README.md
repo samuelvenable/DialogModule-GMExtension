@@ -5,6 +5,4 @@ Override GameMaker's Default Native Dialog Boxes with Improved Ones
 
 ![macos.gif](macos.gif)
 
-![gtk.gif](gtk.gif)
-
-![kde.gif](kde.gif)
+![linux.gif](linux.gif)
