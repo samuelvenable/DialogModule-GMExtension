@@ -56,7 +56,7 @@
 
 # Save File Dialog
 ![14.png](14.png)
-`string get_save_filename(string filter,string fname)` Displays a modal single file "save as" dialog using the given filter which is used like "Description1|Extension1|Description2|Extension2A;Extension2B" where the earlier is the description of the file filter and the latter is the extension pattern. The descriptions and extension patterns are separated by a vertical slash character "|", and if one of the descriptions describe multiple file patterns, separate the file patterns with a semicolon. An example of a filter argument can be "Image Files|`*`.png;`*`.jpeg;`*`.jpg;`*`.gif" which will allow selection of a single png, jpeg, jpg, or gif file. The second argument is the default file name for the dialog to have in the text box. When cenceled an empty string is returned, otherwise the file name chosen is returned.
+`string get_save_filename(string filter,string fname)` Displays a modal single file "save as" dialog using the given filter which is used like "Description1|Extension1|Description2|Extension2A;Extension2B" where the earlier is the description of the file filter and the latter is the extension pattern. The descriptions and extension patterns are separated by a vertical slash character "|", and if one of the descriptions describe multiple file patterns, separate the file patterns with a semicolon. An example of a filter argument can be "Image Files|`*`.png;`*`.jpeg;`*`.jpg;`*`.gif" which will allow selection of a single png, jpeg, jpg, or gif file. The second argument is the default file name for the dialog to have in the text box. When canceled an empty string is returned, otherwise the file name chosen is returned.
 
 # Save File Dialog (Extended)
 ![15.png](15.png)
