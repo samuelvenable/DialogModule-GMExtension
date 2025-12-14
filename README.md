@@ -1,10 +1,10 @@
 # DialogModule GameMaker Extension
 Override GameMaker's Default Native Dialog Boxes with Improved Ones
 
-![win32.png](win32.png)
+![win32.gif](win32.gif)
 
-![macos.png](macos.png)
+![macos.gif](macos.gif)
 
-![gtk.png](gtk.png)
+![gtk.gif](gtk.gif)
 
-![kde.png](kde.png)
+![kde.gif](kde.gif)
