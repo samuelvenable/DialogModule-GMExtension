@@ -327,5 +327,4 @@
   "tvosProps": false,
   "tvosSystemFrameworkEntries": [],
   "tvosThirdPartyFrameworkEntries": [],
-
 }
