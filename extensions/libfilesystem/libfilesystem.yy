@@ -344,6 +344,7 @@
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"directory_get_music_path","argCount":0,"args":[],"documentation":"","externalName":"directory_get_music_path","help":"directory_get_music_path()","hidden":false,"kind":1,"returnType":1,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"directory_get_pictures_path","argCount":0,"args":[],"documentation":"","externalName":"directory_get_pictures_path","help":"directory_get_pictures_path()","hidden":false,"kind":1,"returnType":1,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"directory_get_videos_path","argCount":0,"args":[],"documentation":"","externalName":"directory_get_videos_path","help":"directory_get_videos_path()","hidden":false,"kind":1,"returnType":1,},
+        {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"directory_get_public_path","argCount":0,"args":[],"documentation":"","externalName":"directory_get_public_path","help":"directory_get_public_path()","hidden":false,"kind":1,"returnType":1,},
       ],"init":"","kind":1,"order":[
         {"name":"file_copy","path":"extensions/libfilesystem/libfilesystem.yy",},
         {"name":"file_rename","path":"extensions/libfilesystem/libfilesystem.yy",},
