@@ -71,7 +71,7 @@ if (dlg == 16) {
 }
 
 if (dlg == 17) {
-  ret = get_directory_alt_async("Select Directory Alt", "");
+  ret = get_directory_alt_async(((os_type == os_windows) ? "Select Folder Alt" : "Select Directory Alt"), "");
 }
 
 if (dlg == 18) {
@@ -79,7 +79,7 @@ if (dlg == 18) {
 }
 
 if (dlg == 19) {
-  ret = get_color_ext_async(c_red, "Color Ext");
+  ret = get_color_ext_async(c_red, ((os_type == os_macosx) ? "Colors Ext" : "Color Ext"));
 }
 
 if (dlg == 20) {
