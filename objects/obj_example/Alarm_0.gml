@@ -19,6 +19,7 @@ if (dlg == 3) {
 }
 
 if (dlg == 4) {
+  widget_set_caption("Error");
   ret = show_attempt_async("Hello World!");
 }
 
@@ -27,6 +28,7 @@ if (dlg == 5) {
 }
 
 if (dlg == 6) {
+  widget_set_caption("DialogModule");
   ret = get_string_async("Enter a string:", "Hello World!");
 }
 
