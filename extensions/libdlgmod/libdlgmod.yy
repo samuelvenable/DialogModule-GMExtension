@@ -31,6 +31,7 @@
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"btn_no","hidden":false,"value":"5",},
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"btn_retry","hidden":false,"value":"6",},
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"ws_x11","hidden":false,"value":"\"X11\"",},
+        {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"ws_osascript","hidden":false,"value":"\"OSAScript\"",},
       ],"copyToTargets":202375362,"filename":"libdlgmod.dll","final":"","functions":[
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"show_message","argCount":1,"args":[
             1,
