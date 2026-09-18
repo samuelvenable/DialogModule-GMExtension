@@ -8,9 +8,9 @@ if (ret == dialog) {
 	if (!is_undefined(number) && !widget_get_canceled()) {
       show_message(string(number));
     } else if (!is_undefined(result) && result != "" && !widget_get_canceled()) {
-      show_message(string(result));
+	  show_message(string(result));
     } else if (is_undefined(result) && !widget_get_canceled()) {
-      show_message(string(status));
+	  show_message(string(status));
 	}
   }
 }

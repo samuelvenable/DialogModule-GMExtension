@@ -21,10 +21,13 @@ if (dlg == 3) {
 if (dlg == 4) {
   widget_set_caption("Error");
   ret = show_attempt_async("Hello World!");
+  widget_set_caption("DialogModule");
 }
 
 if (dlg == 5) {
+  widget_set_caption("Error");
   ret = show_error_async("Hello World!", false);
+  widget_set_caption("DialogModule");
 }
 
 if (dlg == 6) {
