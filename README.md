@@ -8,3 +8,5 @@ Click the slideshows below to view documentation and screenshots:
 [![macos.gif](macos.gif)](macos/README.md)
 
 [![linux.gif](linux.gif)](linux/README.md)
+
+[![freebsd.gif](freebsd.gif)](freebsd/README.md)
