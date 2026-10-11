@@ -221,6 +221,7 @@
             1,
           ],"documentation":"","externalName":"widget_set_button_name","help":"widget_set_button_name(type,name)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"widget_get_canceled","argCount":0,"args":[],"documentation":"","externalName":"widget_get_canceled","help":"widget_get_canceled()","hidden":false,"kind":1,"returnType":2,},
+        {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"widget_set_locale","argCount":0,"args":[],"documentation":"","externalName":"widget_set_locale","help":"widget_set_locale()","hidden":false,"kind":1,"returnType":2,},
       ],"init":"","kind":1,"order":[
         {"name":"show_message","path":"extensions/libdlgmod/libdlgmod.yy",},
         {"name":"show_question","path":"extensions/libdlgmod/libdlgmod.yy",},
