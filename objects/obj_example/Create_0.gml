@@ -1,6 +1,3 @@
-// localization
-widget_set_locale();
-
 // set an icon for the dialogs from a *.png file.
 widget_set_icon(working_directory + "icon.png");
 
